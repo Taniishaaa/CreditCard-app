@@ -31,8 +31,8 @@ A simple React Native app built with Supabase for user onboarding, profile setup
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-app.git
-cd expense-tracker-app
+git clone https://github.com/Taniishaaa/CreditCard-app.git
+cd CreditCard-app
 
 2. 🧶 Install Dependencies
 bash
