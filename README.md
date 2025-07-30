@@ -1,10 +1,10 @@
-# 💰 Expense Tracker App
+# Expense Tracker App
 
 A simple React Native app built with Supabase for user onboarding, profile setup, and monthly expense tracking.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Login / Create Account (email + password)
 - ✅ Profile Setup: name, DOB, city, income range, primary bank
@@ -15,7 +15,7 @@ A simple React Native app built with Supabase for user onboarding, profile setup
 
 ---
 
-## 📱 Tech Stack
+## Tech Stack
 
 - React Native (Expo)
 - Supabase (Auth + Database)
@@ -24,11 +24,11 @@ A simple React Native app built with Supabase for user onboarding, profile setup
 
 ---
 
-## ⚙️ How to Run the App (Personal Use)
+## How to Run the App (Personal Use)
 
 > This app uses **my personal Supabase instance**, so you do **not** need to set up Supabase on your end.
 
-### 1. 📦 Clone the Repo
+### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/your-username/expense-tracker-app.git
@@ -36,16 +36,16 @@ cd expense-tracker-app
 
 2. 🧶 Install Dependencies
 bash
-Copy
-Edit
-npm install
+>> npm install
 # or
-yarn install
+yarn 
+>> install
+
 3. ▶️ Run the App
+
 bash
-Copy
-Edit
-npx expo start
+>> npx expo start
+
 Open Expo Go app on your mobile.
 
 Scan the QR code to launch the app.
@@ -61,8 +61,8 @@ Scan the QR code to launch the app.
 
 ✅ Remote persistence only
 
-⚠️ Notes
+Note
 This version is meant for demo and personal use only. The Supabase URL and anon key are already embedded in the app (supabaseClient.ts). If you're forking this repo or building your own backend, consider setting up your own Supabase instance for better security and isolation.
 
-📧 Contact
+
 Created by Tanisha Gupta
